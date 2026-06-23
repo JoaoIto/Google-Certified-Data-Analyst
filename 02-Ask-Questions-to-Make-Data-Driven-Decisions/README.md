@@ -1,11 +1,11 @@
-# 02 Ask Questions to Make Data Driven Decisions
+﻿# 02 Ask Questions to Make Data Driven Decisions
 
-🧭 **Navegação Rápida**
-- [🔙 Voltar para o Sumário Global](../README.md)
-- [⏮️ Curso Anterior](../01-Foundations-Data-Everywhere/README.md)
-- [⏭️ Próximo Curso](../03-Prepare-Data-for-Exploration/README.md)
+**Navegação Rápida**
+- [ Voltar para o Sumário Global](../README.md)
+- [ Curso Anterior](../01-Foundations-Data-Everywhere/README.md)
+- [ Próximo Curso](../03-Prepare-Data-for-Exploration/README.md)
 
-📋 **Sumário do Curso**
+**Sumário do Curso**
 - [Módulo 1](./Module-01/README.md)
 - [Módulo 2](./Module-02/README.md)
 - [Módulo 3](./Module-03/README.md)
@@ -18,4 +18,4 @@
 
 (Adicione aqui a introdução técnica detalhada e focada no curso.)
 
-[⬆ Voltar ao topo](#02-ask-questions-to-make-data-driven-decisions)
+[ Voltar ao topo](#02-ask-questions-to-make-data-driven-decisions)

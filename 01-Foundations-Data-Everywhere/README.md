@@ -1,77 +1,83 @@
-# 01 Foundations Data Everywhere
+# 01 Foundations: Data, Data, Everywhere
 
-🧭 **Navegação Rápida**
-- [🔙 Voltar para o Sumário Global](../README.md)
-- [⏮️ Curso Anterior](../README.md)
-- [⏭️ Próximo Curso](../02-Ask-Questions-to-Make-Data-Driven-Decisions/README.md)
+**Navegação Rápida**
+- [Voltar para o Sumário Global](../README.md)
+- [Curso Anterior](../README.md)
+- [Próximo Curso](../02-Ask-Questions-to-Make-Data-Driven-Decisions/README.md)
 
-📋 **Sumário do Curso**
-- [Módulo 1: Introducing data analytics and analytical thinking](./Module-01/README.md)
-- [Módulo 2: The wonderful world of data](./Module-02/README.md)
-- [Módulo 3: Set up your toolbox](./Module-03/README.md)
-- [Módulo 4: Become a fair and impactful data professional](./Module-04/README.md)
+**Sumário do Curso**
+- [Módulo 1: Introdução à Análise de Dados e Pensamento Analítico](./Module-01/README.md)
+- [Módulo 2: O Maravilhoso Mundo dos Dados](./Module-02/README.md)
+- [Módulo 3: Configuração do Seu Conjunto de Ferramentas](./Module-03/README.md)
+- [Módulo 4: Tornando-se um Profissional de Dados Justo e Impactante](./Module-04/README.md)
 - [Laboratórios Práticos](./Labs/)
 - [Glossário Oficial do Curso](./Data-Analytics-Certificate-glossary.docx)
 
 ---
 
-## Introdução ao Curso
+## 1. Visão Geral do Programa e Fundamentos
 
-**Welcome to the Google Data Analytics Certificate**
+A área de análise de dados envolve a coleta, transformação e organização de dados com o objetivo de extrair conclusões, fazer predições e apoiar a tomada de decisões corporativas (Data-Driven Decision Making). Profissionais qualificados são essenciais para transformar bases de dados brutas em recomendações estratégicas e viáveis para organizações de diversos setores.
 
-Every day, the amount of data out there grows and grows. So the ability to interpret it effectively is more important than ever before. Data analytics is becoming one of the fastest-growing and most rewarding career choices in the world.
+### 1.1. O Papel do Analista de Dados
+Profissionais de dados utilizam diversas metodologias para resolver problemas corporativos complexos. O fluxo diário de trabalho engloba:
 
-Currently, there are nearly 500,000 open jobs in data analytics, with a median entry-level salary of $92,000 and a 20% annual growth rate. Companies in all kinds of industries need qualified data analysts to solve problems and help make the best possible business decisions. And once you complete this program, you’ll be prepared to make smart, strategic, data-driven recommendations for organizations of all kinds.
+* **Definição do Problema**: Entendimento de objetivos de negócios e formulação de perguntas precisas e acionáveis.
+* **Preparação e Limpeza de Dados**: Estruturação de conjuntos massivos de dados, identificação de anomalias e higienização para garantir alta qualidade analítica.
+* **Análise Técnica e Exploração**: Reconhecimento de padrões e estabelecimento de relações utilizando estatística, matemática e linguagens de consulta.
+* **Visualização e Comunicação**: Tradução de descobertas técnicas para stakeholders não técnicos via dashboards, relatórios e apresentações visuais.
 
-Throughout the courses in this program, you’ll complete many assignments and projects based on both the practical activities and the day-to-day life of a data analyst. Along the way, you’ll learn how to ask the right questions and understand objectives. You’ll also discover how to effectively clean and organize large amounts of data to make it ready for high-quality analysis. On top of that, you’ll gain experience using all kinds of tools and techniques that will help you recognize patterns and uncover relationships between data points. Further, to help you communicate the results of your analysis, you’ll learn how to design visuals and dashboards. There’s even an opportunity to create a case study, which you can highlight in your resume to demonstrate what you have learned to potential employers.
+### 1.2. O Ecossistema de Ferramentas
+O ferramental de análise primário engloba quatro grandes áreas tecnológicas:
 
-## Visão Geral do Programa (Program Overview)
+| Categoria | Propósito Técnico | Exemplos de Tecnologias |
+| :--- | :--- | :--- |
+| **Planilhas Eletrônicas** | Estruturação inicial, modelagem leve e execução de fórmulas matemáticas. | Microsoft Excel, Google Sheets |
+| **Bancos de Dados Relacionais** | Armazenamento de alta capacidade, extração e junção (*join*) de grandes volumes. | SQL, BigQuery, PostgreSQL |
+| **Visualização de Dados (BI)** | Criação de gráficos interativos e *dashboards* em tempo real. | Tableau, Power BI, Looker |
+| **Linguagens de Programação** | Automação avançada, modelagem preditiva e cálculos estatísticos escaláveis. | Python, R |
 
-O programa consiste em oito cursos focados em análise de dados (mais um opcional sobre IA). **Foundations: Data, Data, Everywhere** é o primeiro curso desta jornada.
+---
 
-1. **Foundations: Data, Data, Everywhere (Este Curso)**
-2. Ask Questions to Make Data-Driven Decisions
-3. Prepare Data for Exploration
-4. Process Data from Dirty to Clean
-5. Analyze Data to Answer Questions
-6. Share Data Through the Art of Visualization
-7. Introduction to Data Analysis Using Python
-8. Google Data Analytics Capstone: Complete a Case Study
+## 2. Conteúdo Programático do Curso 1
 
-## Conteúdo do Curso (Course 1 Content)
+O primeiro curso da certificação estabelece as fundações teóricas e metodológicas que serão o alicerce técnico de todo o programa.
 
-Este curso está dividido em módulos. Aqui está uma visão geral rápida das habilidades que você irá adquirir em cada um dos quatro módulos do Curso 1:
+### [Módulo 1: Introdução à Análise de Dados e Pensamento Analítico](./Module-01/README.md)
+**Objetivo:** Compreender a aplicação prática dos dados na formulação de estratégias.
+* Fundamentos da tomada de decisão baseada em dados.
+* O escopo de atuação do analista e o alinhamento de expectativas no ciclo de vida dos dados.
 
-### [Módulo 1: Introducing data analytics and analytical thinking](./Module-01/README.md)
-Data helps us make decisions in both everyday life and in business. In this part of the course, you’ll learn how data analysts use a variety of tools and skills to inform those decisions. You’ll also get to know more about this course and the overall program expectations.
+### [Módulo 2: O Maravilhoso Mundo dos Dados](./Module-02/README.md)
+**Objetivo:** Mapeamento de processos operacionais e arquiteturas lógicas.
+* **Ciclo de Vida dos Dados**: Planejamento, captura, gestão, análise, arquivamento e descarte.
+* **Processo de Análise de Dados**: Etapas sequenciais sistêmicas (Perguntar, Preparar, Processar, Analisar, Compartilhar, Agir).
 
-### [Módulo 2: The wonderful world of data](./Module-02/README.md)
-In this part of the course, you'll learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the job. You’ll also be introduced to applications that help guide data through the data analysis process.
+### [Módulo 3: Configuração do Seu Conjunto de Ferramentas](./Module-03/README.md)
+**Objetivo:** Introdução prática ao *stack* tecnológico primário do analista.
+* Arquitetura de planilhas e introdução conceitual a bancos de dados relacionais.
+* Princípios básicos de linguagens de consulta (*Query Languages*).
+* Tipologia e aplicação de gráficos orientados a dados.
 
-### [Módulo 3: Set up your toolbox](./Module-03/README.md)
-Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you’ll learn the basic concepts to use them for data analysis. You’ll also understand how they work through interesting examples.
+### [Módulo 4: Tornando-se um Profissional de Dados Justo e Impactante](./Module-04/README.md)
+**Objetivo:** Ética de dados, vieses analíticos e alinhamento mercadológico.
+* Diferentes tipos de arquitetura organizacional governadas por dados.
+* Estruturação de portfólio de *cases* técnicos e direcionamento de carreira.
 
-### [Módulo 4: Become a fair and impactful data professional](./Module-04/README.md)
-In this part of the course, you’ll examine different types of businesses and the jobs and tasks that analysts do for them. You’ll also learn how a Google Data Analytics Certificate will help you meet many of the requirements for an analyst position with these organizations.
+---
 
-## O Que Esperar (What to Expect)
+## 3. Autoavaliação de Prontidão Técnica (Matriz de Competências)
 
-Cada módulo inclui uma série de lições com muitos tipos de oportunidades de aprendizado:
-- **Vídeos** para os instrutores ensinarem novos conceitos e demonstrarem o uso de ferramentas.
-- **Questões em vídeo** para checar seu entendimento de conceitos e habilidades chave.
-- **Guias passo-a-passo** para acompanhar os instrutores na demonstração de ferramentas.
-- **Leituras** para explorar tópicos com mais profundidade.
-- **Quizzes práticos e avaliativos** para medir seu progresso.
+Para garantir o progresso e o aproveitamento técnico na área de dados, o analista deve dominar progressivamente as seguintes competências práticas:
 
-## Conhecimentos e Habilidades em Análise de Dados
-*(Autoavaliação de prontidão)*
+| Domínio Analítico | Competência Prática Requerida |
+| :--- | :--- |
+| **Pensamento Crítico** | Formulação de hipóteses de negócios e definição do processo investigativo de dados. |
+| **Governança de Dados** | Validação da credibilidade das fontes (*Data Provenance*) e auditoria estrutural. |
+| **Engenharia de Dados Básica** | Identificação e tratamento de valores nulos, duplicidades e falhas de tipagem (*Data Cleansing*). |
+| **Extração de Dados** | Escrita e depuração de comandos lógicos de seleção e junção de tabelas múltiplas. |
+| **Comunicação de Insights** | Modelagem visual (*Storytelling with Data*) para maximizar o impacto executivo. |
 
-Você avaliará seu conhecimento do processo de análise de dados considerando afirmações como:
-- "Tenho um entendimento profundo sobre tomada de decisão baseada em dados e como isso guia a estratégia de negócios."
-- "Sei selecionar e desenhar visualizações que me ajudam a comunicar insights efetivamente."
-- "Consigo escrever um comando SQL que selecionaria várias colunas de uma tabela."
-- "Sei limpar dados garantindo que não contêm duplicatas e estão no formato correto."
+[Voltar ao topo](#01-foundations-data-everywhere)oogle Business Intelligence Certificate).*
 
-*(Se você já domina essas áreas, pode estar pronto para programas mais avançados como o Google Advanced Data Analytics ou Google Business Intelligence Certificate).*
-
-[⬆ Voltar ao topo](#01-foundations-data-everywhere)
+[ Voltar ao topo](#01-foundations-data-everywhere)

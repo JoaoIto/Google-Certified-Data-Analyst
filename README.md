@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Certificate
+﻿# Google Data Analytics Professional Certificate
 
 <p align="left">
   <a href="https://www.credly.com/badges/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e/public_url">
@@ -18,7 +18,7 @@ Bem-vindo ao repositório de documentação do **Google Data Analytics Professio
   <img src="./assets/roadmap_greyscale.png" alt="Google Data Analytics Roadmap (Greyscale)">
 </p>
 
-📋 **Sumário Global**
+**Sumário Global**
 
 Abaixo encontra-se a lista de todos os cursos que compõem esta certificação. Clique em qualquer um dos links para acessar os materiais, anotações teóricas e laboratórios práticos.
 

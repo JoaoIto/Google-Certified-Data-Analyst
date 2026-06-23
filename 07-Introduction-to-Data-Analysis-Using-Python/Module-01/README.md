@@ -1,10 +1,10 @@
-# Module 01
+﻿# Module 01
 
-🧭 **Navegação Rápida**
-- [🔙 Voltar para o Curso](../README.md)
-- [🏠 Voltar para o Sumário Global](../../README.md)
+**Navegação Rápida**
+- [ Voltar para o Curso](../README.md)
+- [ Voltar para o Sumário Global](../../README.md)
 
-📋 **Sumário do Módulo**
+**Sumário do Módulo**
 - [Tópico 1](#topico-1)
 - [Tópico 2](#topico-2)
 
@@ -14,10 +14,10 @@
 
 (Adicione o conteúdo técnico do tópico 1 aqui.)
 
-[⬆ Voltar ao sumário](#module-01)
+[ Voltar ao sumário](#module-01)
 
 ## Tópico 2
 
 (Adicione o conteúdo técnico do tópico 2 aqui.)
 
-[⬆ Voltar ao sumário](#module-01)
+[ Voltar ao sumário](#module-01)
