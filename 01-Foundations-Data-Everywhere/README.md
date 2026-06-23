@@ -19,8 +19,9 @@
 
 A área de análise de dados envolve a coleta, transformação e organização de dados com o objetivo de extrair conclusões, fazer predições e apoiar a tomada de decisões corporativas (Data-Driven Decision Making). Profissionais qualificados são essenciais para transformar bases de dados brutas em recomendações estratégicas e viáveis para organizações de diversos setores.
 
-### 1.1. O Papel do Analista de Dados
-Profissionais de dados utilizam diversas metodologias para resolver problemas corporativos complexos. O fluxo diário de trabalho engloba:
+<img src="./assets/roadmap_greyscale.png" alt="Google Data Analytics Roadmap (Greyscale)">
+
+Every day, the amount of data out there grows and grows. So the ability to interpret it effectively is more important than ever before. Data analytics is becoming one of the fastest-growing and most rewarding career choices in the world.
 
 * **Definição do Problema**: Entendimento de objetivos de negócios e formulação de perguntas precisas e acionáveis.
 * **Preparação e Limpeza de Dados**: Estruturação de conjuntos massivos de dados, identificação de anomalias e higienização para garantir alta qualidade analítica.
