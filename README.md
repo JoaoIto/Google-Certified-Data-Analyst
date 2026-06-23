@@ -12,6 +12,12 @@
 
 Bem-vindo ao repositório de documentação do **Google Data Analytics Professional Certificate**. Este repositório tem como objetivo documentar de forma profunda, didática e técnica o meu progresso através do programa.
 
+<p align="center">
+  <img src="./assets/roadmap_color.png" alt="Google Data Analytics Roadmap (Color)">
+  <br>
+  <img src="./assets/roadmap_greyscale.png" alt="Google Data Analytics Roadmap (Greyscale)">
+</p>
+
 📋 **Sumário Global**
 
 Abaixo encontra-se a lista de todos os cursos que compõem esta certificação. Clique em qualquer um dos links para acessar os materiais, anotações teóricas e laboratórios práticos.
