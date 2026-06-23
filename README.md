@@ -14,8 +14,6 @@ Bem-vindo ao repositório de documentação do **Google Data Analytics Professio
 
 <p align="center">
   <img src="./assets/roadmap_color.png" alt="Google Data Analytics Roadmap (Color)">
-  <br>
-  <img src="./assets/roadmap_greyscale.png" alt="Google Data Analytics Roadmap (Greyscale)">
 </p>
 
 📋 **Sumário Global**
