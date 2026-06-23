@@ -1,21 +1,21 @@
-﻿# 01 Foundations Data Everywhere
+# 01 Foundations Data Everywhere
 
-ðŸ§­ **NavegaÃ§Ã£o RÃ¡pida**
-- [ðŸ”™ Voltar para o SumÃ¡rio Global](../README.md)
-- [â®ï¸ Curso Anterior](../README.md)
-- [â­ï¸ PrÃ³ximo Curso](../02-Ask-Questions-to-Make-Data-Driven-Decisions/README.md)
+🧭 **Navegação Rápida**
+- [🔙 Voltar para o Sumário Global](../README.md)
+- [⏮️ Curso Anterior](../README.md)
+- [⏭️ Próximo Curso](../02-Ask-Questions-to-Make-Data-Driven-Decisions/README.md)
 
-ðŸ“‹ **SumÃ¡rio do Curso**
-- [MÃ³dulo 1](./Module-01/README.md)
-- [MÃ³dulo 2](./Module-02/README.md)
-- [MÃ³dulo 3](./Module-03/README.md)
-- [MÃ³dulo 4](./Module-04/README.md)
-- [LaboratÃ³rios PrÃ¡ticos](./Labs/)
+📋 **Sumário do Curso**
+- [Módulo 1](./Module-01/README.md)
+- [Módulo 2](./Module-02/README.md)
+- [Módulo 3](./Module-03/README.md)
+- [Módulo 4](./Module-04/README.md)
+- [Laboratórios Práticos](./Labs/)
 
 ---
 
-## IntroduÃ§Ã£o ao Curso
+## Introdução ao Curso
 
-(Adicione aqui a introduÃ§Ã£o tÃ©cnica detalhada e focada no curso.)
+(Adicione aqui a introdução técnica detalhada e focada no curso.)
 
-[â¬† Voltar ao topo](#01-foundations-data-everywhere)
+[⬆ Voltar ao topo](#01-foundations-data-everywhere)

@@ -1,23 +1,23 @@
-﻿# Module 04
+# Module 04
 
-ðŸ§­ **NavegaÃ§Ã£o RÃ¡pida**
-- [ðŸ”™ Voltar para o Curso](../README.md)
-- [ðŸ  Voltar para o SumÃ¡rio Global](../../README.md)
+🧭 **Navegação Rápida**
+- [🔙 Voltar para o Curso](../README.md)
+- [🏠 Voltar para o Sumário Global](../../README.md)
 
-ðŸ“‹ **SumÃ¡rio do MÃ³dulo**
-- [TÃ³pico 1](#topico-1)
-- [TÃ³pico 2](#topico-2)
+📋 **Sumário do Módulo**
+- [Tópico 1](#topico-1)
+- [Tópico 2](#topico-2)
 
 ---
 
-## TÃ³pico 1
+## Tópico 1
 
-(Adicione o conteÃºdo tÃ©cnico do tÃ³pico 1 aqui.)
+(Adicione o conteúdo técnico do tópico 1 aqui.)
 
-[â¬† Voltar ao sumÃ¡rio](#module-04)
+[⬆ Voltar ao sumário](#module-04)
 
-## TÃ³pico 2
+## Tópico 2
 
-(Adicione o conteÃºdo tÃ©cnico do tÃ³pico 2 aqui.)
+(Adicione o conteúdo técnico do tópico 2 aqui.)
 
-[â¬† Voltar ao sumÃ¡rio](#module-04)
+[⬆ Voltar ao sumário](#module-04)

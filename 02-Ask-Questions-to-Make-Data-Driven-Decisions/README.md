@@ -1,21 +1,21 @@
-﻿# 02 Ask Questions to Make Data Driven Decisions
+# 02 Ask Questions to Make Data Driven Decisions
 
-ðŸ§­ **NavegaÃ§Ã£o RÃ¡pida**
-- [ðŸ”™ Voltar para o SumÃ¡rio Global](../README.md)
-- [â®ï¸ Curso Anterior](../01-Foundations-Data-Everywhere/README.md)
-- [â­ï¸ PrÃ³ximo Curso](../03-Prepare-Data-for-Exploration/README.md)
+🧭 **Navegação Rápida**
+- [🔙 Voltar para o Sumário Global](../README.md)
+- [⏮️ Curso Anterior](../01-Foundations-Data-Everywhere/README.md)
+- [⏭️ Próximo Curso](../03-Prepare-Data-for-Exploration/README.md)
 
-ðŸ“‹ **SumÃ¡rio do Curso**
-- [MÃ³dulo 1](./Module-01/README.md)
-- [MÃ³dulo 2](./Module-02/README.md)
-- [MÃ³dulo 3](./Module-03/README.md)
-- [MÃ³dulo 4](./Module-04/README.md)
-- [LaboratÃ³rios PrÃ¡ticos](./Labs/)
+📋 **Sumário do Curso**
+- [Módulo 1](./Module-01/README.md)
+- [Módulo 2](./Module-02/README.md)
+- [Módulo 3](./Module-03/README.md)
+- [Módulo 4](./Module-04/README.md)
+- [Laboratórios Práticos](./Labs/)
 
 ---
 
-## IntroduÃ§Ã£o ao Curso
+## Introdução ao Curso
 
-(Adicione aqui a introduÃ§Ã£o tÃ©cnica detalhada e focada no curso.)
+(Adicione aqui a introdução técnica detalhada e focada no curso.)
 
-[â¬† Voltar ao topo](#02-ask-questions-to-make-data-driven-decisions)
+[⬆ Voltar ao topo](#02-ask-questions-to-make-data-driven-decisions)

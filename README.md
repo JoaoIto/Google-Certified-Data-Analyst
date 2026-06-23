@@ -1,10 +1,20 @@
-﻿# Google Data Analytics Professional Certificate
+# Google Data Analytics Professional Certificate
 
-Bem-vindo ao repositÃ³rio de documentaÃ§Ã£o do **Google Data Analytics Professional Certificate**. Este repositÃ³rio tem como objetivo documentar de forma profunda, didÃ¡tica e tÃ©cnica o meu progresso atravÃ©s do programa.
+<p align="left">
+  <a href="https://www.credly.com/badges/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e/public_url">
+    <img src="https://img.shields.io/badge/Google-Certified%20Professional-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/Z1IENH8NM9E1">
+    <img src="https://img.shields.io/badge/Coursera-Specialization-orange?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
+</p>
 
-ðŸ“‹ **SumÃ¡rio Global**
+Bem-vindo ao repositório de documentação do **Google Data Analytics Professional Certificate**. Este repositório tem como objetivo documentar de forma profunda, didática e técnica o meu progresso através do programa.
 
-Abaixo encontra-se a lista de todos os cursos que compÃµem esta certificaÃ§Ã£o. Clique em qualquer um dos links para acessar os materiais, anotaÃ§Ãµes teÃ³ricas e laboratÃ³rios prÃ¡ticos.
+📋 **Sumário Global**
+
+Abaixo encontra-se a lista de todos os cursos que compõem esta certificação. Clique em qualquer um dos links para acessar os materiais, anotações teóricas e laboratórios práticos.
 
 1. [Foundations: Data, Data, Everywhere](./01-Foundations-Data-Everywhere/README.md)
 2. [Ask Questions to Make Data-Driven Decisions](./02-Ask-Questions-to-Make-Data-Driven-Decisions/README.md)
@@ -16,4 +26,4 @@ Abaixo encontra-se a lista de todos os cursos que compÃµem esta certificaÃ§�
 8. [Google Data Analytics Capstone](./08-Google-Data-Analytics-Capstone/README.md)
 
 ---
-*RepositÃ³rio focado em conceitos de anÃ¡lise de dados, estatÃ­stica e arquitetura tÃ©cnica.*
+*Repositório focado em conceitos de análise de dados, estatística e arquitetura técnica.*
