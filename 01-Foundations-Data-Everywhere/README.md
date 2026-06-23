@@ -19,6 +19,8 @@
 
 **Welcome to the Google Data Analytics Certificate**
 
+<img src="./assets/roadmap_greyscale.png" alt="Google Data Analytics Roadmap (Greyscale)">
+
 Every day, the amount of data out there grows and grows. So the ability to interpret it effectively is more important than ever before. Data analytics is becoming one of the fastest-growing and most rewarding career choices in the world.
 
 Currently, there are nearly 500,000 open jobs in data analytics, with a median entry-level salary of $92,000 and a 20% annual growth rate. Companies in all kinds of industries need qualified data analysts to solve problems and help make the best possible business decisions. And once you complete this program, you’ll be prepared to make smart, strategic, data-driven recommendations for organizations of all kinds.
