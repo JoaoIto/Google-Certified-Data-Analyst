@@ -7,9 +7,6 @@
 
 **Sumário do Curso**
 - [Módulo 1: Introdução à Análise de Dados e Pensamento Analítico](./Module-01/README.md)
-- [Módulo 2: O Maravilhoso Mundo dos Dados](./Module-02/README.md)
-- [Módulo 3: Configuração do Seu Conjunto de Ferramentas](./Module-03/README.md)
-- [Módulo 4: Tornando-se um Profissional de Dados Justo e Impactante](./Module-04/README.md)
 - [Laboratórios Práticos](./Labs/)
 - [Glossário Oficial do Curso](./Data-Analytics-Certificate-glossary.docx)
 
